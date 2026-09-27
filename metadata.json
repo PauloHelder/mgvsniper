@@ -1,0 +1,6 @@
+{
+  "name": "NaviOrder - Gestão de Ordens & Simulador",
+  "description": "Plataforma SaaS financeira em tons azul marinho para controle de ordens, cálculo de lucro aplicado, taxas de saque, filtro por período e simulador de juros compostos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
